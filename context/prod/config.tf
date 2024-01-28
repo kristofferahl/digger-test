@@ -8,5 +8,4 @@ terraform {
 }
 
 provider "healthchecksio" {
-  # Configuration options
 }
