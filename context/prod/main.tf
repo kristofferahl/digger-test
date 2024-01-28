@@ -1,6 +1,6 @@
 resource "healthchecksio_check" "test" {
   name = "digger-test-check"
-  desc = "A test check"
+  desc = "A test check using digger"
 
   tags = [
     "go",
