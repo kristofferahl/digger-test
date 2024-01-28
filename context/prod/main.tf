@@ -1,5 +1,5 @@
 resource "healthchecksio_check" "test" {
-  name = "test-check"
+  name = "digger-test-check"
   desc = "A test check"
 
   tags = [
